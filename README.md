@@ -169,6 +169,12 @@ Please open an issue or submit a pull request if you have ideas for:
 
 ---
 
+## 🎥 App Demo
+
+https://github.com/TheNiks/TrackMyMetric/blob/480821dcac4b9f28f0ac144bfe889bc9acc73424/assets/Walkthrough.mp4
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.
