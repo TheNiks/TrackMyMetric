@@ -172,7 +172,7 @@ Please open an issue or submit a pull request if you have ideas for:
 ## 🎥 App Demo
 
 1. https://github.com/TheNiks/TrackMyMetric/blob/480821dcac4b9f28f0ac144bfe889bc9acc73424/assets/Walkthrough.mp4
-2. https://github.com/TheNiks/TrackMyMetric/blob/c71dc7c3cc26bf1330b30b84ef252dda7f4c47d7/assets/Walkthrough.mp4
+2. https://github.com/TheNiks/TrackMyMetric/blob/4bc0767e8c1dc8497ad1929d049f3bf6a532c28b/assets/WaitingForData.mov
 3. https://github.com/TheNiks/TrackMyMetric/blob/0a0828d11955362e0a36bb65d720f9a9eb67f927/assets/HealthAccess.mov
 
 ---
